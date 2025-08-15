@@ -46,7 +46,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -162,7 +162,7 @@ TextureImporter:
         serializedVersion: 2
         x: 383
         y: 0
-        width: 372
+        width: 371
         height: 321
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -182,9 +182,9 @@ TextureImporter:
       name: nav_2
       rect:
         serializedVersion: 2
-        x: 766
+        x: 783
         y: 0
-        width: 372
+        width: 339
         height: 321
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -204,9 +204,9 @@ TextureImporter:
       name: nav_3
       rect:
         serializedVersion: 2
-        x: 1150
+        x: 1165
         y: 0
-        width: 354
+        width: 338
         height: 321
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
